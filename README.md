@@ -1,2 +1,2 @@
 # wordcloud
-Create a wordcloud using Python
+Create a wordcloud using Python.
